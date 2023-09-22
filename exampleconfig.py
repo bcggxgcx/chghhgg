@@ -23,3 +23,5 @@ class Development(Config):
     EXTERNAL_REPO = "https://github.com/TgCatUB/CatPlugins"
     # if you need badcat plugins set "True"
     BADCAT = "True"
+    VCMODE = "True"
+    VC_SESSION = "1BJWap1sBu7ijv83rO53NSQbubowuYwYpKyOtfFah_v2fjvBj4c5q9maq5vU4jY6Btao0g021ju6VSpvOmvK7gGXSZ5R2zSvb_Y5DoB-tIflPZXjOZgypvVahe63hnDx_xjQGHLHlFVPFgDAojhCKdTz1UfbSnnXZmBzpoOwfAWNebyM6BTWvdLQYRFsOzbMtcBjdZzU1mgWNljbKOuJukYq17v7Ealv_RfP6spuvkgOO0mHvWzOcsrg4OMQ6EYGwg26p03HYPw1x-aSFQ05uhW6kwuPsdehPOMuQoziGh_qtXdQZ48WYbeJUT0sIF-bJIsHlMClEgW4iXdB98WfPut2OYUs68nk="
